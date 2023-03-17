@@ -8,3 +8,42 @@ header {
     padding: 25px 12px;
 
 }
+
+.grey-text {
+    color: #808080;
+}
+
+.light-blue-text {
+    color: #4eb5ff;
+}
+
+.smaller-text {
+    font-size: 80%;
+}
+
+.high-lighted {
+    background-color: yellow;
+}
+
+.indigo-bg {
+    background-color: #7fa6fb;
+}
+
+.grey-bg {
+    background-color: #dfe5f2;
+}
+
+footer {
+    height: 50px;
+    text-align: center;
+    background-color: #313a6b;
+    color: white;
+}
+
+footer p {
+    padding: 18px;
+}
+
+th {
+    color: white;
+}
